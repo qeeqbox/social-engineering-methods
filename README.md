@@ -7,15 +7,10 @@ When a threat actor psychologically manipulates (tricks) someone into revealing 
 ### Principles
 
 *   Authority: claiming a person in a leadership role (This one is common).  
-    
 *   Intimidation: claiming if an action is not taken, it will be escalated to a supervisor or a director.  
-    
 *   Consensus: claiming an action is normal and others are doing that action.  
-    
 *   Scarcity: claiming there is a limited quantity.  
-    
 *   Familiarity, introducing something that's the target already familiar with.  
-    
 *   Urgency, claiming an action is needed now; otherwise, it won't work.
 
 * * *
